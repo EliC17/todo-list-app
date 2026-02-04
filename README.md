@@ -1,3 +1,3 @@
-Simple To-Do List App
+Simple To-Do List App with Local Storage
 
 Using JavaScript, HTML, CSS
